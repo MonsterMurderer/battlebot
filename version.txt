@@ -1,2 +1,2 @@
-version=1.2.1
-url=https://mega.nz/file/i85kjTaJ#1b-CbS7mdHJcSKG5Cfjb7xbFsKKKeB2AD9bcg2VJHYY
+version=1.2.2
+url=https://mega.nz/file/eshl2R5R#ulAWu6F7z4S0m-tEWNr0Jx64CVUheKPCwh4sKV4ADXA
